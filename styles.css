@@ -1,0 +1,21 @@
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+
+
+.coolBtn {
+  display: block;
+  min-width: 300px;
+  margin: 48px;
+  background: orange;
+  border: none;
+  border-radius: 100px;
+  font-size: 48px;
+  padding: 0.5em 2em;
+  cursor: pointer;
+}
